@@ -1,2 +1,1 @@
-# Applied Machine Learning Course Project
-## ClimateRisk AI
+# Applied Machine Learning Course Project: ClimateRisk AI
