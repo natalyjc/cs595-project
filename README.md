@@ -1,1 +1,2 @@
-# cs595-project
+# Applied Machine Learning Course Project
+## ClimateRisk AI
